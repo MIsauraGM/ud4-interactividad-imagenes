@@ -7,3 +7,23 @@
 **3. Crea un fichero ej3.html donde incluyas tres imágenes diferentes que encuentres en internet (licencia libre de uso) que se muestren según tres puntos de ruptura que definas.**
 
 **4. Crea un fichero ej4.html donde incluyas una imagen (con licencia de uso) y hagas un mapa de esta con al menos tres áreas con enlaces a una web externa.**
+
+**5. Tomando una de la imágenes de los proyectos que generaste en la anterior entrega, crea un fichero ej5.html donde se muestre con los siguientes efectos: .**
+
+**. Desde el tablón de inicio entra en el repositorio del portafolio del compañero/a que se te ha asigando (ver listado al final). Házte un fork y clónalo en tu equipo. A partir de aquí, deberás realizar las siguientes acciones:**
+
+
+**ASIGNACIÓN DE PROYECTOS:**
+Sergio -> Mario
+Mario -> Jesús Manuel
+Jesús Manuel -> José Manuel
+José Manuel -> Daniel Gallego
+Daniel Gallego -> Daniel González
+Daniel González -> Juan Diego
+Juan Diego -> Pablo 
+Pablo Leal -> Eduardo 
+Eduardo Martínez -> Agustín 
+Agustín Pedrote -> María Quirós
+María Quirós -> Antonio
+Antonio -> Ricardo
+Ricardo -> Sergio
