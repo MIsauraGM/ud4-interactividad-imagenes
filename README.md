@@ -15,13 +15,18 @@
 
 **ASIGNACIÓN DE PROYECTOS:**
 
-'''
 Sergio -> Mario
+
 Mario -> Jesús Manuel
+
 Jesús Manuel -> José Manuel
+
 José Manuel -> Daniel Gallego
+
 Daniel Gallego -> Daniel González
+
 Daniel González -> Juan Diego
+
 Juan Diego -> Pablo 
 Pablo Leal -> Eduardo 
 Eduardo Martínez -> Agustín 
@@ -29,4 +34,4 @@ Agustín Pedrote -> María Quirós
 María Quirós -> Antonio
 Antonio -> Ricardo
 Ricardo -> Sergio
-'''
+
