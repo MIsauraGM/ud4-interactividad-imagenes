@@ -8,9 +8,14 @@
 
 **4. Crea un fichero ej4.html donde incluyas una imagen (con licencia de uso) y hagas un mapa de esta con al menos tres áreas con enlaces a una web externa.**
 
-**5. Tomando una de la imágenes de los proyectos que generaste en la anterior entrega, crea un fichero ej5.html donde se muestre con los siguientes efectos: .**
+**5. Tomando una de la imágenes de los proyectos que generaste en la anterior entrega, crea un fichero ej5.html donde se muestre con los siguientes efectos: escala de grises, desenfoque, sepia, saturación, opacidad, brillo, contraste, rotación de colores y negativo.**
 
 **. Desde el tablón de inicio entra en el repositorio del portafolio del compañero/a que se te ha asigando (ver listado al final). Házte un fork y clónalo en tu equipo. A partir de aquí, deberás realizar las siguientes acciones:**
+- Cambia o incluye (si no existiera) las etiquetas <img> por <picture> donde tomes diferentes imágenes como recurso según el punto de ruptura establecido en la web.
+- Aplica uno de los efectos vistos.
+- Cambia o incluye un logo en formato SVG (puedes incluir el que generaste o pedirle a tu compañero/a el que generó).
+- Incluye o modifica una imagen en formato PNG con canal transparencia y aplícale el filtro de drop-shadow para mostrar un borde.
+- Incluye la carpeta del proyecto a la tarea con el nombre de tu compañero/a del siguiente modo: ej6-isaura.
 
 
 ## ASIGNACIÓN DE PROYECTOS:
