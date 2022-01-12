@@ -14,6 +14,7 @@
 
 
 **ASIGNACIÓN DE PROYECTOS:**
+'''
 Sergio -> Mario
 Mario -> Jesús Manuel
 Jesús Manuel -> José Manuel
@@ -27,3 +28,4 @@ Agustín Pedrote -> María Quirós
 María Quirós -> Antonio
 Antonio -> Ricardo
 Ricardo -> Sergio
+'''
