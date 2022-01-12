@@ -14,6 +14,7 @@
 
 
 **ASIGNACIÓN DE PROYECTOS:**
+
 '''
 Sergio -> Mario
 Mario -> Jesús Manuel
