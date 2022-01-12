@@ -13,7 +13,7 @@
 **. Desde el tablón de inicio entra en el repositorio del portafolio del compañero/a que se te ha asigando (ver listado al final). Házte un fork y clónalo en tu equipo. A partir de aquí, deberás realizar las siguientes acciones:**
 
 
-**ASIGNACIÓN DE PROYECTOS:**
+## ASIGNACIÓN DE PROYECTOS:
 
 Sergio -> Mario
 
@@ -28,10 +28,16 @@ Daniel Gallego -> Daniel González
 Daniel González -> Juan Diego
 
 Juan Diego -> Pablo 
+
 Pablo Leal -> Eduardo 
+
 Eduardo Martínez -> Agustín 
+
 Agustín Pedrote -> María Quirós
+
 María Quirós -> Antonio
+
 Antonio -> Ricardo
+
 Ricardo -> Sergio
 
